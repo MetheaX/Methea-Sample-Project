@@ -4,7 +4,7 @@
  */
 package io.methea.metheahost.controller;
 
-import io.methea.util.SystemUtils;
+import io.methea.utils.SystemUtils;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
