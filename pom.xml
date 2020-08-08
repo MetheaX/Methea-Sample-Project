@@ -32,7 +32,7 @@
         </dependency>
         <dependency>
             <groupId>io.methea</groupId>
-            <artifactId>methea-core</artifactId>
+            <artifactId>web-ui</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
