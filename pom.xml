@@ -15,7 +15,7 @@
     <description>Methea Host</description>
 
     <properties>
-        <postgres.version>42.2.1</postgres.version>
+        <postgres.version>42.3.3</postgres.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
